@@ -1,0 +1,1105 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\bin\Debug\CODEC.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\bin\Debug\CODEC.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\bin\Debug\CODEC.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\bin\Debug\CODEC.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\bin\Debug\CODEC.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\bin\Debug\CODEC.xml
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\CODEC1\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\T-Gamer\Desktop\CODEC2\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\T-Gamer\Desktop\CODEC2\CODEC\obj\Debug\CODEC.exe
+C:\Users\T-Gamer\Desktop\CODEC2\CODEC\obj\Debug\CODEC.xml
+C:\Users\T-Gamer\Desktop\CODEC2\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODEC3\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODEC3\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODEC3\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODEC3\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\CODEC3\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CODECv4\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\CODECv4\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECv4\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECv4\CODEC\obj\Debug\CODEC.pdb
+\\Mac\Home\Downloads\CODECv5\CODEC\bin\Debug\CODEC.exe.config
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.exe
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.xml
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.pdb
+\\Mac\Home\Downloads\CODECv5\CODEC\bin\Debug\CODEC.exe
+\\Mac\Home\Downloads\CODECv5\CODEC\bin\Debug\CODEC.pdb
+\\Mac\Home\Downloads\CODECv5\CODEC\bin\Debug\CODEC.xml
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.Resources.resources
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.FrmMenu.resources
+\\Mac\Home\Downloads\CODECv5\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CODECv6\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODECv6\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECv6\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODECv6\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CODECv6\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.exe
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.xml
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.pdb
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\bin\Debug\CODEC.exe
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\bin\Debug\CODEC.pdb
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\bin\Debug\CODEC.xml
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv7\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.exe
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.xml
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.pdb
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\bin\Debug\CODEC.exe
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\bin\Debug\CODEC.pdb
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\bin\Debug\CODEC.xml
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\T-Gamer\Desktop\um monte de coisa\coisas do tecnico do Hen\CODECv8\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CODECv9\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODECv9\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECv9\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODECv9\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\CODECv9\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv10\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI\CODEC\CODECv11\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\bin\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\bin\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\bin\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\TEMP\Desktop\PTI\CODEC\CODECv12\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv12\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\bin\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\bin\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\bin\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv13\CODEC\obj\Debug\CODEC.FrmConVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\bin\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmConVenda.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECv14\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.xml
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConVenda.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.exe
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.pdb
+C:\Users\TEMP\Desktop\PTI-PRESENCIAL\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010042\Desktop\PTI-PRESENCIAL-COM VENDAS\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV15-VENDAS\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV16\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV17\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV18\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.FrmEscolhaCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV19\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV20-Design Inicial\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV20-Design Inicial\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV20-Design Inicial\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV20-Design Inicial\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV21\CODEC\obj\Debug\CODEC.FrmTesteDesign.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmTesteDesign.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV22\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmTesteDesign.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV23\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmTesteDesign.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV24- Relatórios\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.Escolha_Despesas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.Escolha_Vendas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmTesteDesign.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmTesteDesign.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV25\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV26\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV27- Design Definitvo\CODEC\obj\Debug\CODEC.EscolhaContrato.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaContrato.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.Login.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.pdb
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\bin\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaContrato.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.Login.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV28- Pré Banca\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV29\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV29\CODEC\obj\Debug\CODEC.exe
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV29\CODEC\obj\Debug\CODEC.xml
+C:\Users\19010015\Desktop\PTI-PRESENCIAL-COM VENDAS\CODEC\CODECV29\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaContrato.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.Login.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV29\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaContrato.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.Login.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\PTI-PRÉ BANCA\CODEC\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.exe.config
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.exe
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.pdb
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\bin\Debug\CODEC.xml
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadCliente.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadDespesa.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadFornecedor.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.ClientesMaisCompram.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.VendaClienteTipo.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConDespesa.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmTipoProduto.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadProduto.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadEntradaDeProduto.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadPagamento.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmVenda.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmVendaFinal.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConCliente.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConPagamento.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoCodigoNome.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConEntradaProdutoPeríodo.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConFornecedores.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmCadLançamentoDespesa.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConProduto.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.TiposMaisVendidos.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConLucro.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaData.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaCodigo.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaFinalCliente.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaFinalCodigo.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmConVendaFinalData.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaClienteConsultas.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaContrato.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaDespesasConsultas.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaFornecedorConsultas.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaPagamentoConsultas.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaProdutoConsultas.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.EscolhaVendasConsultas.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.Login.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.Resources.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmMenu.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.FrmImp.resources
+C:\Users\Victor\Desktop\CODECV30 - BancaFinal\CODEC\obj\Debug\CODEC.vbproj.GenerateResource.Cache
